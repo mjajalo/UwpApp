@@ -1,0 +1,151 @@
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\pdftron.PDF.Tools.xr.xml
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FilePlaceHolder_pdf.scale-400.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FilePlaceHolder_pdf.scale-200.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FilePlaceHolder_pdf.scale-100.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FilePlaceHolder_pdf_locked.scale-400.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FilePlaceHolder_pdf_locked.scale-200.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FilePlaceHolder_pdf_locked.scale-100.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FolderIcon.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\OneDrive_rgb_Blue2728.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Controls\Resources\custom.ttf
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Controls\Resources\DefaultFileIcon.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Icons\StickyIcons.pdf
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Resources\glyph-icon.ttf
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Resources\Images\icon-disp-compress.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Resources\Images\icon-disp-crop-pdf.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Resources\Images\icon-disp-encrypt.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Resources\Images\icon-disp-flatten.png
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\App.xbf
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\MainPage.xbf
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\myapp-uwp.xr.xml
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\myapp-uwp.exe
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\myapp-uwp.pdb
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\resources.pri
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\AppxManifest.xml
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\Core\myapp-uwp.exe
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\myapp-uwp.build.appxrecipe
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.dll
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.pri
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.winmd
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools.dll
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\System.Runtime.dll
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\App.g.i.cs
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\App.g.cs
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\MainPage.g.cs
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\App.xaml
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\MainPage.xaml
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\App.xbf
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\MainPage.xbf
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\myapp-uwp.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\myapp-uwp.csproj.CopyComplete
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\pdftron.PDF.Tools.pri.xml
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\pdftron.pri.xml
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\myapp-uwp.exe
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\myapp-uwp.pdb
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\priconfig.xml
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\resources.resfiles
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\pri.resfiles
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\qualifiers.txt
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637214786760000000.json
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637425067200000000.json
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\.winmd_cache\$pdftron.winmd_637565923040000000.json
+C:\Users\Marko\Desktop\myapp-uwp\myapp-uwp\obj\x64\Debug\myapp-uwp.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\pdftron.PDF.Tools.xr.xml
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FilePlaceHolder_pdf.scale-400.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FilePlaceHolder_pdf.scale-200.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FilePlaceHolder_pdf.scale-100.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FilePlaceHolder_pdf_locked.scale-400.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FilePlaceHolder_pdf_locked.scale-200.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FilePlaceHolder_pdf_locked.scale-100.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\FolderIcon.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Assets\DocumentPage\OneDrive_rgb_Blue2728.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Controls\Resources\custom.ttf
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Controls\Resources\DefaultFileIcon.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Icons\StickyIcons.pdf
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Resources\glyph-icon.ttf
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Resources\Images\icon-disp-compress.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Resources\Images\icon-disp-crop-pdf.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Resources\Images\icon-disp-encrypt.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools\Resources\Images\icon-disp-flatten.png
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\App.xbf
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\MainPage.xbf
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\myapp-uwp.xr.xml
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\myapp-uwp.exe
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\myapp-uwp.pdb
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\resources.pri
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\AppxManifest.xml
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\Core\myapp-uwp.exe
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\myapp-uwp.build.appxrecipe
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.dll
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.pri
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.winmd
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\pdftron.PDF.Tools.dll
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\System.Runtime.dll
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\App.g.i.cs
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\App.g.cs
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\MainPage.g.cs
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\App.xaml
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\MainPage.xaml
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\App.xbf
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\MainPage.xbf
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\myapp-uwp.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\myapp-uwp.csproj.CopyComplete
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\pdftron.PDF.Tools.pri.xml
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\pdftron.pri.xml
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\myapp-uwp.exe
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\myapp-uwp.pdb
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\priconfig.xml
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\resources.resfiles
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\pri.resfiles
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\qualifiers.txt
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637214786760000000.json
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637425067200000000.json
+C:\Users\Marko\Desktop\myapp-uwp - Copy\myapp-uwp\obj\x64\Debug\.winmd_cache\$pdftron.winmd_637565923040000000.json
